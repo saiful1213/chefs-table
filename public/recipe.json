@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "recipe_img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "recipe_name": "Grilled Chicken with Basil Sauce",
+      "desc": "A savory grilled chicken dish topped with a rich basil sauce.",
+      "ingredient": ["234 g chicken", "120 ml basil sauce", "100 g cherry tomatoes", "50 g parmesan"],
+      "preparing_time": "35 mins",
+      "calories": "450 kcal"
+    },
+    {
+      "id": 2,
+      "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "recipe_name": "Creamy Mushroom Pasta",
+      "desc": "Delicious creamy pasta with sautéed mushrooms and garlic.",
+      "ingredient": ["400 g pasta", "200 g mushrooms", "100 ml cream", "50 g parmesan"],
+      "preparing_time": "25 mins",
+      "calories": "600 kcal"
+    },
+    {
+      "id": 3,
+      "recipe_img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "recipe_name": "Spicy Beef Tacos",
+      "desc": "Tacos filled with spicy seasoned beef, topped with fresh veggies.",
+      "ingredient": ["300 g ground beef", "120 ml taco sauce", "50 g lettuce", "30 g cheddar cheese", "4 taco shells"],
+      "preparing_time": "20 mins",
+      "calories": "520 kcal"
+    },
+    {
+      "id": 4,
+      "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "recipe_name": "Vegan Buddha Bowl",
+      "desc": "A colorful bowl packed with healthy grains, veggies, and avocado.",
+      "ingredient": ["200 g quinoa", "100 g chickpeas", "50 g spinach", "1 avocado", "30 g seeds"],
+      "preparing_time": "30 mins",
+      "calories": "350 kcal"
+    },
+    {
+      "id": 5,
+      "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "recipe_name": "Shrimp Stir-Fry",
+      "desc": "A quick and easy shrimp stir-fry with vegetables and soy sauce.",
+      "ingredient": ["300 g shrimp", "200 g bell peppers", "100 ml soy sauce", "50 g broccoli", "30 g sesame seeds"],
+      "preparing_time": "15 mins",
+      "calories": "400 kcal"
+    },
+    {
+      "id": 6,
+      "recipe_img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "recipe_name": "Homemade Margherita Pizza",
+      "desc": "Classic pizza with fresh mozzarella, tomatoes, and basil leaves.",
+      "ingredient": ["300 g pizza dough", "120 ml tomato sauce", "150 g mozzarella", "50 g basil leaves", "30 g olive oil"],
+      "preparing_time": "40 mins",
+      "calories": "500 kcal"
+    }
+  ]
+  
